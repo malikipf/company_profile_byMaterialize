@@ -25,8 +25,7 @@ footer {
 }
 
 footer p a {
-  color: white;
-  transition: 0.3s ease;
+  color: #ffffff;
 }
 
 footer p a:hover {
